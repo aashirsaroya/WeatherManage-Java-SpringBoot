@@ -45,9 +45,6 @@ A comprehensive weather management application built with **Java**, **Spring Boo
 4. **Run Application**:
    - Right-click the project and select `Run As -> Java Application -> WeatherManageApplication`.
 
-## **Screenshots**
-_Add relevant screenshots here, showcasing the UI and database interactions._
-
 ## **Usage**
 - **Search Weather**: Use the search functionality in the GUI to fetch and display weather data.
 - **Store Data**: Click on the save button to store fetched data into the SQLite database.
